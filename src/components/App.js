@@ -4,7 +4,7 @@ import './../styles/App.css';
 import Weather from "./Weather";
 
 const App = () => {
-  const weatherData = { temperature: 25, conditions: "Sunny" };
+  const weatherData = { temperature:25, conditions: "Sunny" };
 
   return (
     <div>
